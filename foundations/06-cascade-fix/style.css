@@ -10,6 +10,7 @@ body {
 
 .para {
   font-size: 22px;
+  font-weight: 800;
 }
 
 .small-para {
@@ -34,7 +35,7 @@ body {
   font-size: 14px;
 }
 
-div.text {
+div {
   color: rgb(0, 0, 0);
   font-size: 22px;
   font-weight: 100;
